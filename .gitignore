@@ -1,0 +1,9 @@
+/MSMQ_Transaction_Sample/MSMQ_Transaction_Sample/$tf
+/MSMQ_Transaction_Sample/MSMQ_Transaction_Sample/bin
+/MessagingFramework.ClientA/bin
+/MessagingFramework.ClientA/obj
+/MSMQ_Transaction_Sample/MSMQ_Transaction_Sample/obj/Debug/*.exe
+/MSMQ_Transaction_Sample/MSMQ_Transaction_Sample/obj/Debug/*.pdb
+/MessagingFramework.Factory/bin/Debug/*.pdb
+/MessagingFramework.Service/bin/Debug
+/MessagingFramework.Service/obj/Debug/*.exe

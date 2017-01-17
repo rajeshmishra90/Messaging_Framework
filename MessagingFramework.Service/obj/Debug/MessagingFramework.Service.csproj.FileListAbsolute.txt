@@ -1,0 +1,14 @@
+D:\MSMQ\MessagingFramework\MessagingFramework.Service\bin\Debug\MessagingFramework.Service.exe.config
+D:\MSMQ\MessagingFramework\MessagingFramework.Service\bin\Debug\MessagingFramework.Service.exe
+D:\MSMQ\MessagingFramework\MessagingFramework.Service\bin\Debug\MessagingFramework.Service.pdb
+D:\MSMQ\MessagingFramework\MessagingFramework.Service\bin\Debug\MessagingFramework.Common.dll
+D:\MSMQ\MessagingFramework\MessagingFramework.Service\bin\Debug\MessagingFramework.Factory.dll
+D:\MSMQ\MessagingFramework\MessagingFramework.Service\bin\Debug\log4net.dll
+D:\MSMQ\MessagingFramework\MessagingFramework.Service\bin\Debug\MessagingFramework.MSMQ.dll
+D:\MSMQ\MessagingFramework\MessagingFramework.Service\bin\Debug\MessagingFramework.Common.pdb
+D:\MSMQ\MessagingFramework\MessagingFramework.Service\bin\Debug\MessagingFramework.Factory.pdb
+D:\MSMQ\MessagingFramework\MessagingFramework.Service\bin\Debug\log4net.xml
+D:\MSMQ\MessagingFramework\MessagingFramework.Service\bin\Debug\MessagingFramework.MSMQ.pdb
+D:\MSMQ\MessagingFramework\MessagingFramework.Service\obj\Debug\MessagingFramework.Service.csprojResolveAssemblyReference.cache
+D:\MSMQ\MessagingFramework\MessagingFramework.Service\obj\Debug\MessagingFramework.Service.exe
+D:\MSMQ\MessagingFramework\MessagingFramework.Service\obj\Debug\MessagingFramework.Service.pdb

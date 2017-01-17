@@ -1,0 +1,6 @@
+c:\users\stgrmishra\documents\visual studio 2012\Projects\MSMQ_Transaction_Sample\MSMQ_Transaction_Sample\bin\Debug\MSMQ_Transaction_Sample.exe.config
+c:\users\stgrmishra\documents\visual studio 2012\Projects\MSMQ_Transaction_Sample\MSMQ_Transaction_Sample\obj\Debug\MSMQ_Transaction_Sample.csprojResolveAssemblyReference.cache
+c:\users\stgrmishra\documents\visual studio 2012\Projects\MSMQ_Transaction_Sample\MSMQ_Transaction_Sample\bin\Debug\MSMQ_Transaction_Sample.exe
+c:\users\stgrmishra\documents\visual studio 2012\Projects\MSMQ_Transaction_Sample\MSMQ_Transaction_Sample\bin\Debug\MSMQ_Transaction_Sample.pdb
+c:\users\stgrmishra\documents\visual studio 2012\Projects\MSMQ_Transaction_Sample\MSMQ_Transaction_Sample\obj\Debug\MSMQ_Transaction_Sample.exe
+c:\users\stgrmishra\documents\visual studio 2012\Projects\MSMQ_Transaction_Sample\MSMQ_Transaction_Sample\obj\Debug\MSMQ_Transaction_Sample.pdb

@@ -1,0 +1,83 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingFramework.Service", "MessagingFramework.Service\MessagingFramework.Service.csproj", "{3752AFC6-8879-4D46-B8F9-FA1217304343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingFramework.Logging", "MessagingFramework.Common\MessagingFramework.Logging.csproj", "{329BB688-8C81-40E8-A273-60BA98BD6F69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingFramework.ClientA", "MessagingFramework.ClientA\MessagingFramework.ClientA.csproj", "{A7D9B594-7525-474E-9B36-1D7987002A08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingFramework.Factory", "MessagingFramework.Factory\MessagingFramework.Factory.csproj", "{00EB5807-F252-43B1-8894-866E1EA89209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingFramework.ClientB", "MessagingFramework.ClientB\MessagingFramework.ClientB.csproj", "{AB990A58-C9E8-417D-A87E-EA4B54377C95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingFramework.MSMQ", "MessagingFramework.MSMQ\MessagingFramework.MSMQ.csproj", "{037D70E9-65CB-4E97-A1DC-0C4ED6D8A946}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSMQ_Transaction_Sample", "C:\Users\stgrmishra\Documents\Visual Studio 2012\Projects\MSMQ_Transaction_Sample\MSMQ_Transaction_Sample\MSMQ_Transaction_Sample.csproj", "{B132EA84-312C-4C0F-8FE9-6C1A5D0FCCC0}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://sahaiabhi.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MessagingFramework.Service\\MessagingFramework.Service.csproj
+		SccProjectName1 = MessagingFramework.Service
+		SccLocalPath1 = MessagingFramework.Service
+		SccProjectUniqueName2 = MessagingFramework.ClientA\\MessagingFramework.ClientA.csproj
+		SccProjectName2 = MessagingFramework.ClientA
+		SccLocalPath2 = MessagingFramework.ClientA
+		SccProjectUniqueName3 = MessagingFramework.Factory\\MessagingFramework.Factory.csproj
+		SccProjectName3 = MessagingFramework.Factory
+		SccLocalPath3 = MessagingFramework.Factory
+		SccProjectUniqueName4 = MessagingFramework.ClientB\\MessagingFramework.ClientB.csproj
+		SccProjectName4 = MessagingFramework.ClientB
+		SccLocalPath4 = MessagingFramework.ClientB
+		SccProjectUniqueName5 = MessagingFramework.MSMQ\\MessagingFramework.MSMQ.csproj
+		SccProjectName5 = MessagingFramework.MSMQ
+		SccLocalPath5 = MessagingFramework.MSMQ
+		SccProjectUniqueName6 = MessagingFramework.Common\\MessagingFramework.Logging.csproj
+		SccProjectName6 = MessagingFramework.Common
+		SccLocalPath6 = MessagingFramework.Common
+		SccProjectUniqueName7 = C:\\Users\\stgrmishra\\Documents\\Visual\u0020Studio\u00202012\\Projects\\MSMQ_Transaction_Sample\\MSMQ_Transaction_Sample\\MSMQ_Transaction_Sample.csproj
+		SccProjectName7 = MSMQ_Transaction_Sample
+		SccLocalPath7 = C:\\Users\\stgrmishra\\Documents\\Visual\u0020Studio\u00202012\\Projects\\MSMQ_Transaction_Sample\\MSMQ_Transaction_Sample
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3752AFC6-8879-4D46-B8F9-FA1217304343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3752AFC6-8879-4D46-B8F9-FA1217304343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3752AFC6-8879-4D46-B8F9-FA1217304343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3752AFC6-8879-4D46-B8F9-FA1217304343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329BB688-8C81-40E8-A273-60BA98BD6F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329BB688-8C81-40E8-A273-60BA98BD6F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329BB688-8C81-40E8-A273-60BA98BD6F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329BB688-8C81-40E8-A273-60BA98BD6F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7D9B594-7525-474E-9B36-1D7987002A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D9B594-7525-474E-9B36-1D7987002A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D9B594-7525-474E-9B36-1D7987002A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D9B594-7525-474E-9B36-1D7987002A08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00EB5807-F252-43B1-8894-866E1EA89209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00EB5807-F252-43B1-8894-866E1EA89209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00EB5807-F252-43B1-8894-866E1EA89209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00EB5807-F252-43B1-8894-866E1EA89209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB990A58-C9E8-417D-A87E-EA4B54377C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB990A58-C9E8-417D-A87E-EA4B54377C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB990A58-C9E8-417D-A87E-EA4B54377C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB990A58-C9E8-417D-A87E-EA4B54377C95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{037D70E9-65CB-4E97-A1DC-0C4ED6D8A946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037D70E9-65CB-4E97-A1DC-0C4ED6D8A946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037D70E9-65CB-4E97-A1DC-0C4ED6D8A946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037D70E9-65CB-4E97-A1DC-0C4ED6D8A946}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B132EA84-312C-4C0F-8FE9-6C1A5D0FCCC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B132EA84-312C-4C0F-8FE9-6C1A5D0FCCC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B132EA84-312C-4C0F-8FE9-6C1A5D0FCCC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B132EA84-312C-4C0F-8FE9-6C1A5D0FCCC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
